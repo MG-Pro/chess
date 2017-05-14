@@ -1,0 +1,10 @@
+#container {
+	margin: 0 auto;
+	width: 1308px;
+}
+.main {
+	height: 860px;
+	width: 860px;
+	float: left;
+	background-color: darkgray;
+}
